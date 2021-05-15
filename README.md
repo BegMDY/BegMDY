@@ -1,6 +1,6 @@
 <h1 align="center">BEG</h1>
 <p align="center">
-![Beg](https://media.discordapp.net/attachments/488393479097942021/843207344133374032/beg.gif)
+<img src="https://media.discordapp.net/attachments/488393479097942021/843207344133374032/beg.gif">
 
 
 <p align="center">
