@@ -1,6 +1,6 @@
 <h1 align="center">BEG</h1>
 <p align="center">
-<a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://cdn.discordapp.com/avatars/270612935544406027/a75b7b5f6ada70cbef908b9731c0ed7e.gif?size=640"></a>
+<a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://cdn.discordapp.com/attachments/488393479097942021/843207003005386752/a75b7b5f6ada70cbef908b9731c0ed7e.gif"></a>
 
 <p align="center">
 <a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
