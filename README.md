@@ -1,6 +1,4 @@
 <h1 align="center">BEG</h1>
-![Beg](https://media.discordapp.net/attachments/488393479097942021/843207344133374032/beg.gif)
-
 
 <p align="center">
 <a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
