@@ -1,4 +1,5 @@
 <h1 align="center">BEG</h1>
+<a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://cdn.discordapp.com/avatars/270612935544406027/a75b7b5f6ada70cbef908b9731c0ed7e?size=640"></a>
 
 <p align="center">
 <a href="https://discord.com/users/270612935544406027/" target"blank_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
