@@ -8,7 +8,7 @@
 <a href="https://youtube.com/channel/UCUCmhyW7kFPf80QHaoX-wVQ" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitch.tv/BegMDY" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/15936681/BegMDY/" target"blank_"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-
 <a href="https://steamcommunity.com/id/BegMDY/" target"blank_"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://facebook.com/BegMDY/" target"blank_"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://linkedin.com/in/BegMDY" target"blank_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.tiktok.com/@BegMDY" target"blank_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
