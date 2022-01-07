@@ -20,6 +20,3 @@
 <p align="center">
 <a href="https://www.behance.net/BegMDY/" target"blank_"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
 <p align="center">
-<a href="https://youtube.com/watch?v=ee925OTFBCA" target"blank_"><img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"></a>
-<p align="center">
-<a href="https://cdn.frankerfacez.com/emoticon/263379/4" target"blank_"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></a>
